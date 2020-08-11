@@ -1,4 +1,4 @@
-# pisa_survey_analysis
+# PISA Survey Analysis
 
 This project is a submission for the Data Visualizations’ unit of Udacty’s Nanodegree program: “Data Analysis”. I worked on the PISA dataset which is mainly about a survey of students' skills and knowledge as they approach the end of compulsory education. As the dataset size is exceeding 2 GB, you can access it from here.
 
