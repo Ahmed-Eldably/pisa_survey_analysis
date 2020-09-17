@@ -6,6 +6,15 @@ This project is a submission for the Data Visualizations’ unit of Udacty’s N
 For this investigation, I wanted to check some variables that influence students’ academic performance in the PISA test. The focus of my analysis was on these variables: country, is_oecd, gender, belong at school, feel happy at school, and computers’ availability at schools.
 
 
+# Files in the repository
+
+1. communicate_data_findings.ipynb. (main investigation file)
+2. output-toggle.tpl (For the presentation without code)
+3. pisa_data_cleaned.csv (The cleaned dataset)
+4. pisa_data_slide_deck.ipynb (IPython file for the summary of findings)
+5. pisadict2012.csv (The dataset's columns guide)
+
+
 # Exploratory data analysis findings
 
 1. China-Shanghai has the most students who have the best scores.
