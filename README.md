@@ -1,6 +1,6 @@
 # PISA Survey Analysis
 
-This project is a submission for the Data Visualizations’ unit of Udacty’s Nanodegree program: “Data Analysis”. I worked on the PISA dataset which is mainly about a survey of students' skills and knowledge as they approach the end of compulsory education. As the dataset size is exceeding 2 GB, you can access it from here.
+This project is a submission for the Data Visualizations’ unit of Udacty’s Nanodegree program: “Data Analysis”. I worked on the PISA dataset which is mainly about a survey of students' skills and knowledge as they approach the end of compulsory education. As the dataset size is exceeding 2 GB, you can access it from (here)[https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1596812885258000&usg=AOvVaw2OpL4_DIqTkmvEdFtmLxjn].
 
 
 For this investigation, I wanted to check some variables that influence students’ academic performance in the PISA test. The focus of my analysis was on these variables: country, is_oecd, gender, belong at school, feel happy at school, and computers’ availability at schools.
